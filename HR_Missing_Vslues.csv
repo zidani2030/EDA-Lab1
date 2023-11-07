@@ -1,0 +1,312 @@
+Employee_Name,EmpID,Salary,PositionID,Position,DOB,Sex,MaritalDesc,RaceDesc,DateofHire,DateofTermination,Department,ManagerName,ManagerID,RecruitmentSource,Absences
+"Adinolfi, Wilson  K",10026,62506.0,19,Production Technician I,07/10/83,M ,Single,White,7/5/2011,,Production       ,Michael Albert,22.0,LinkedIn,1.0
+"Ait Sidi, Karthikeyan   ",10084,104437.0,27,Sr. DBA,05/05/75,M ,Married,White,3/30/2015,6/16/2016,IT/IS,Simon Roup,4.0,Indeed,17.0
+"Akinkuolie, Sarah",10196,64955.0,20,Production Technician II,09/19/88,F,Married,White,7/5/2011,9/24/2012,Production       ,Kissy Sullivan,20.0,LinkedIn,3.0
+"Alagbe,Trina",10088,64991.0,19,Production Technician I,,F,Married,White,1/7/2008,,Production       ,Elijiah Gray,16.0,Indeed,15.0
+,10069,50825.0,19,Production Technician I,09/08/89,F,Divorced,White,7/11/2011,9/6/2016,Production       ,Webster Butler,39.0,Google Search,2.0
+,10002,57568.0,19,Production Technician I,05/22/77,F,Single,White,1/9/2012,,Production       ,Amy Dunn,11.0,LinkedIn,15.0
+"Andreola, Colby",10194,95660.0,24,Software Engineer,05/24/79,F,Single,White,11/10/2014,,Software Engineering,Alex Sweetwater,10.0,LinkedIn,19.0
+"Athwal, Sam",10062,59365.0,19,Production Technician I,02/18/83,M ,Widowed,White,9/30/2013,,Production       ,Ketsia Liebig,19.0,Employee Referral,19.0
+,10114,47837.0,19,Production Technician I,02/11/70,F,Single,Black or African American,7/6/2009,,Production       ,Brannon Miller,12.0,Diversity Job Fair,4.0
+,10250,,14,IT Support,01/07/88,,Divorced,White,1/5/2015,,IT/IS,Peter Monroe,7.0,Indeed,16.0
+"Baczenski, Rachael  ",10252,,19,Production Technician I,01/12/74,F,Married,Black or African American,1/10/2011,1/12/2017,Production       ,David Stanley,14.0,Diversity Job Fair,12.0
+,10242,47211.0,19,Production Technician I,02/21/74,M ,Married,Black or African American,4/2/2012,9/19/2016,Production       ,Kissy Sullivan,20.0,Diversity Job Fair,15.0
+"Barbossa, Hector",10012,92328.0,9,Data Analyst,07/04/88,M ,Divorced,Black or African American,11/10/2014,,IT/IS,Simon Roup,4.0,Diversity Job Fair,9.0
+"Barone, Francesco  A",10265,58709.0,19,Production Technician I,07/20/83,M ,Single,Two or more races,2/20/2012,,Production       ,Kelley Spirea,18.0,Google Search,7.0
+,10066,52505.0,19,Production Technician I,07/15/77,M ,Divorced,White,9/24/2012,4/6/2017,Production       ,Michael Albert,22.0,On-line Web application,1.0
+"Bates, Norman",10061,57834.0,19,Production Technician I,10/18/81,,Single,White,2/21/2011,8/4/2017,Production       ,Kelley Spirea,18.0,Google Search,20.0
+"Beak, Kimberly  ",10023,70131.0,20,Production Technician II,04/17/66,,Married,White,7/21/2016,,Production       ,Kelley Spirea,18.0,Employee Referral,16.0
+,10055,59026.0,19,Production Technician I,10/27/70,F,Single,White,4/4/2011,,Production       ,Elijiah Gray,16.0,Google Search,12.0
+,10245,110000.0,8,Database Administrator,04/04/86,,Single,White,7/7/2014,9/12/2015,IT/IS,Simon Roup,4.0,Google Search,8.0
+,10277,,19,Production Technician I,04/06/79,M ,Single,Asian,7/8/2013,,Production       ,Webster Butler,,LinkedIn,
+,10046,,19,Production Technician I,12/22/70,M ,Single,White,4/2/2012,,Production       ,Amy Dunn,11.0,Google Search,13.0
+,10226,64919.0,19,Production Technician I,12/27/58,F,Divorced,Asian,8/19/2013,,Production       ,Ketsia Liebig,19.0,Indeed,2.0
+,10003,,19,Production Technician I,09/01/89,F,Married,White,7/7/2014,,Production       ,Brannon Miller,12.0,Indeed,
+"Blount, Dianna",10294,,20,Production Technician II,09/21/90,F,Single,White,4/4/2011,,Production       ,Michael Albert,22.0,CareerBuilder,3.0
+"Bondwell, Betsy",10267,57815.0,20,Production Technician II,01/16/67,F,Single,White,1/10/2011,4/4/2014,Production       ,Elijiah Gray,16.0,Google Search,5.0
+"Booth, Frank",10199,,30,Enterprise Architect,07/30/64,M ,Single,Black or African American,2/17/2014,2/19/2016,IT/IS,Simon Roup,4.0,LinkedIn,2.0
+"Boutwell, Bonalyn",10081,106367.0,26,Sr. Accountant,04/04/87,F,Married,Black or African American,2/16/2015,,Admin Offices,Brandon R. LeBlanc,3.0,Diversity Job Fair,4.0
+"Bozzi, Charles",10175,74312.0,18,Production Manager,03/10/70,,Single,Asian,9/30/2013,8/7/2014,Production       ,Janet King,2.0,Indeed,14.0
+,10177,53492.0,19,Production Technician I,08/24/90,,Married,White,4/2/2012,6/15/2013,Production       ,David Stanley,14.0,Google Search,6.0
+,10238,63000.0,1,Accountant I,11/24/87,F,Married,Black or African American,10/27/2008,,Admin Offices,Brandon R. LeBlanc,1.0,Diversity Job Fair,14.0
+"Buccheri, Joseph  ",10184,65288.0,20,Production Technician II,07/28/83,M ,Single,White,9/29/2014,,Production       ,Webster Butler,,Google Search,
+"Bugali, Josephine ",10203,64375.0,19,Production Technician I,10/30/69,F,Separated,Black or African American,11/11/2013,,Production       ,Kissy Sullivan,20.0,Diversity Job Fair,17.0
+"Bunbury, Jessica",10188,74326.0,3,Area Sales Manager,06/01/64,F,Married,Black or African American,8/15/2011,8/2/2014,Sales,John Smith,17.0,Google Search,19.0
+,10107,63763.0,20,Production Technician II,03/02/80,F,Single,Black or African American,3/5/2012,,Production       ,Amy Dunn,11.0,Employee Referral,3.0
+"Burkett, Benjamin ",10181,,20,Production Technician II,08/19/77,M ,Married,White,4/4/2011,,Production       ,Ketsia Liebig,19.0,Indeed,15.0
+"Cady, Max ",10150,77692.0,25,Software Engineering Manager,11/22/66,M ,Single,White,8/15/2011,,Software Engineering,Jennifer Zamora,5.0,Google Search,4.0
+"Candie, Calvin",10001,72640.0,18,Production Manager,08/09/83,M ,Single,White,1/28/2016,,Production       ,Janet King,2.0,Indeed,14.0
+"Carabbio, Judith",10085,,24,Software Engineer,04/05/87,F,Single,White,11/11/2013,,Software Engineering,Alex Sweetwater,10.0,Indeed,3.0
+"Carey, Michael  ",10115,52846.0,19,Production Technician I,02/02/83,M ,Single,Black or African American,3/31/2014,,Production       ,Kelley Spirea,18.0,LinkedIn,
+"Carr, Claudia  N",10082,,27,Sr. DBA,06/06/86,,Single,Black or African American,6/30/2016,,IT/IS,Simon Roup,4.0,LinkedIn,7.0
+"Carter, Michelle ",10040,,3,Area Sales Manager,05/15/63,F,Single,White,8/18/2014,,Sales,John Smith,17.0,Indeed,7.0
+"Chace, Beatrice ",10067,61656.0,19,Production Technician I,01/02/51,F,Single,White,9/29/2014,,Production       ,Michael Albert,22.0,Google Search,11.0
+"Champaigne, Brian",10108,110929.0,5,BI Director,,,Married,White,9/6/2016,,IT/IS,Jennifer Zamora,5.0,Indeed,8.0
+"Chan, Lin",10210,54237.0,19,Production Technician I,02/12/79,F,Single,White,5/12/2014,,Production       ,Elijiah Gray,16.0,Indeed,11.0
+"Chang, Donovan  E",10154,,19,Production Technician I,08/24/83,,Single,White,7/8/2013,,Production       ,Webster Butler,,LinkedIn,4.0
+,10200,,3,Area Sales Manager,06/11/70,M ,Single,Black or African American,5/14/2012,,Sales,Lynn Daneault,21.0,Employee Referral,17.0
+"Chivukula, Enola",10240,64786.0,19,Production Technician I,08/27/83,F,Single,White,6/27/2011,11/15/2015,Production       ,Amy Dunn,11.0,Indeed,3.0
+,10168,64816.0,19,Production Technician I,05/31/88,,Single,Black or African American,10/3/2011,,Production       ,Ketsia Liebig,19.0,Indeed,3.0
+"Clayton, Rick",10220,68678.0,14,IT Support,09/05/85,M ,Single,White,9/5/2012,,IT/IS,Eric Dougall,6.0,Indeed,2.0
+"Cloninger, Jennifer",10275,64066.0,20,Production Technician II,08/31/81,F,Married,White,5/16/2011,1/7/2013,Production       ,Brannon Miller,12.0,Google Search,
+"Close, Phil",10269,,20,Production Technician II,11/25/78,M ,Married,White,8/30/2010,9/26/2011,Production       ,David Stanley,14.0,Indeed,6.0
+"Clukey, Elijian",10029,50373.0,19,Production Technician I,08/26/80,,Married,White,7/6/2016,,Production       ,Brannon Miller,12.0,Employee Referral,5.0
+,10261,63108.0,19,Production Technician I,09/08/77,M ,Single,White,7/8/2013,,Production       ,David Stanley,14.0,Employee Referral,3.0
+"Cole, Spencer",10292,59144.0,19,Production Technician I,08/12/79,M ,Single,Black or African American,7/11/2011,9/23/2016,Production       ,Kissy Sullivan,20.0,LinkedIn,16.0
+"Corleone, Michael",10282,68051.0,18,Production Manager,12/17/75,M ,Divorced,White,7/20/2010,,Production       ,Janet King,2.0,CareerBuilder,3.0
+"Corleone, Vito",10019,170500.0,10,Director of Operations,03/19/83,M ,Single,Black or African American,1/5/2009,,Production       ,Janet King,2.0,Indeed,
+"Cornett, Lisa ",10094,63381.0,19,Production Technician I,03/31/77,,Married,White,1/5/2015,,Production       ,Kelley Spirea,18.0,Indeed,6.0
+"Costello, Frank",10193,83552.0,9,Data Analyst,08/26/86,M ,Married,White,3/30/2015,,IT/IS,Simon Roup,4.0,Indeed,2.0
+"Crimmings,   Jean",10132,56149.0,19,Production Technician I,04/10/87,F,Single,White,7/6/2016,,Production       ,Michael Albert,22.0,LinkedIn,15.0
+,10083,,28,Sr. Network Engineer,09/09/65,M ,Single,White,11/10/2014,,IT/IS,Peter Monroe,7.0,Employee Referral,5.0
+"Daneault, Lynn",10099,65729.0,21,Sales Manager,04/19/90,F,Single,White,5/5/2014,,Sales,Debra Houlihan,15.0,Indeed,8.0
+"Daniele, Ann  ",10212,85028.0,28,Sr. Network Engineer,01/18/52,F,Married,White,11/10/2014,,IT/IS,Peter Monroe,7.0,LinkedIn,19.0
+"Darson, Jene'ya ",10056,57583.0,19,Production Technician I,11/05/78,F,Married,White,7/2/2012,,Production       ,Elijiah Gray,16.0,Indeed,1.0
+"Davis, Daniel",10143,56294.0,20,Production Technician II,09/14/79,M ,Single,Two or more races,11/7/2011,,Production       ,Kissy Sullivan,20.0,LinkedIn,6.0
+"Dee, Randy",10311,56991.0,19,Production Technician I,04/15/88,M ,Married,White,7/9/2018,,Production       ,Brannon Miller,12.0,Indeed,2.0
+,10070,55722.0,19,Production Technician I,10/31/77,M ,Married,White,5/16/2011,6/8/2016,Production       ,Webster Butler,39.0,Indeed,14.0
+,10155,101199.0,24,Software Engineer,07/05/79,F,Single,Black or African American,1/9/2012,,Software Engineering,Alex Sweetwater,10.0,CareerBuilder,8.0
+"Delarge, Alex",10306,61568.0,3,Area Sales Manager,11/02/75,,Single,Two or more races,9/29/2014,,Sales,John Smith,17.0,Indeed,5.0
+"Demita, Carla",10100,58275.0,20,Production Technician II,02/25/51,F,Separated,Black or African American,4/4/2011,11/4/2015,Production       ,Kelley Spirea,18.0,Google Search,1.0
+,10310,53189.0,19,Production Technician I,,M ,Married,White,7/7/2014,,Production       ,Amy Dunn,11.0,Indeed,9.0
+,10197,96820.0,4,BI Developer,09/04/83,M ,Single,White,2/15/2017,,IT/IS,Brian Champaigne,13.0,Indeed,15.0
+,10276,51259.0,19,Production Technician I,11/15/82,M ,Single,White,5/12/2014,,Production       ,Ketsia Liebig,19.0,Indeed,1.0
+"Dietrich, Jenna  ",10304,,3,Area Sales Manager,05/14/87,F,Single,White,2/20/2012,,Sales,John Smith,17.0,Website,17.0
+"DiNocco, Lily ",10284,61584.0,19,Production Technician I,12/02/78,,Married,Black or African American,1/7/2013,,Production       ,Brannon Miller,12.0,Indeed,6.0
+"Dobrin, Denisa  S",10207,,19,Production Technician I,10/07/86,F,Single,White,4/2/2012,,Production       ,David Stanley,14.0,CareerBuilder,15.0
+"Dolan, Linda",10133,,14,IT Support,07/18/88,F,Married,White,1/5/2015,,IT/IS,Peter Monroe,7.0,Employee Referral,16.0
+,10028,138888.0,13,IT Manager - Support,07/09/70,M ,Single,Black or African American,1/5/2014,,IT/IS,Jennifer Zamora,5.0,Indeed,4.0
+"Driver, Elle",10006,74241.0,3,Area Sales Manager,11/08/88,F,Single,White,1/10/2011,,Sales,Lynn Daneault,21.0,Indeed,14.0
+"Dunn, Amy  ",10105,75188.0,18,Production Manager,11/28/73,F,Single,White,9/18/2014,,Production       ,Janet King,2.0,Google Search,4.0
+"Dunne, Amy",10211,62514.0,19,Production Technician I,09/23/73,F,Married,White,4/26/2010,,Production       ,Ketsia Liebig,19.0,Google Search,6.0
+"Eaton, Marianne",10064,,19,Production Technician I,09/05/91,F,Married,White,4/4/2011,6/6/2017,Production       ,Kissy Sullivan,20.0,Google Search,7.0
+"Engdahl, Jean",10247,48888.0,19,Production Technician I,05/31/74,M ,Single,White,11/10/2014,,Production       ,Kelley Spirea,18.0,LinkedIn,8.0
+,10235,54285.0,19,Production Technician I,08/25/78,M ,Married,White,3/31/2014,,Production       ,Kelley Spirea,18.0,Employee Referral,3.0
+,10299,56847.0,20,Production Technician II,08/25/89,,Separated,White,7/7/2014,,Production       ,Michael Albert,22.0,Indeed,5.0
+"Estremera, Miguel",10280,60340.0,19,Production Technician I,,,Single,White,4/2/2012,9/27/2018,Production       ,Michael Albert,22.0,Google Search,16.0
+"Evensen, April",10296,59124.0,19,Production Technician I,05/06/89,,Single,White,2/17/2014,2/25/2018,Production       ,Elijiah Gray,16.0,Google Search,19.0
+,10290,99280.0,24,Software Engineer,05/15/87,F,Married,Black or African American,5/2/2011,6/5/2013,Software Engineering,Alex Sweetwater,10.0,Indeed,19.0
+,10263,71776.0,20,Production Technician II,09/22/78,F,Married,Black or African American,7/7/2014,,Production       ,Elijiah Gray,16.0,LinkedIn,17.0
+"Fancett, Nicole",10136,65902.0,20,Production Technician II,09/27/87,F,Single,Black or African American,2/17/2014,,Production       ,Webster Butler,,LinkedIn,7.0
+"Ferguson, Susan",10189,57748.0,19,Production Technician I,04/14/55,F,Married,White,11/7/2011,5/17/2016,Production       ,Webster Butler,39.0,Google Search,16.0
+"Fernandes, Nilson  ",10308,64057.0,19,Production Technician I,10/18/89,M ,Married,White,5/11/2015,,Production       ,Amy Dunn,11.0,Indeed,
+"Fett, Boba",10309,53366.0,15,Network Engineer,06/18/87,M ,Single,White,3/30/2015,,IT/IS,Peter Monroe,7.0,LinkedIn,2.0
+"Fidelia,  Libby",10049,58530.0,19,Production Technician I,,F,Married,White,1/9/2012,,Production       ,Brannon Miller,12.0,Google Search,19.0
+,10093,72609.0,20,Production Technician II,10/01/81,M ,Single,White,5/16/2011,6/24/2013,Production       ,Amy Dunn,11.0,Google Search,20.0
+"Foreman, Tanya",10163,55965.0,20,Production Technician II,11/08/83,F,Married,White,4/4/2011,1/9/2013,Production       ,Ketsia Liebig,19.0,Google Search,6.0
+"Forrest, Alex",10305,70187.0,3,Area Sales Manager,07/07/75,,Married,White,9/29/2014,8/19/2018,Sales,Lynn Daneault,21.0,Employee Referral,7.0
+,10015,178000.0,12,IT Director,,M ,Single,Black or African American,4/15/2011,,IT/IS,Jennifer Zamora,5.0,Indeed,15.0
+"Foster-Baker, Amy",10080,99351.0,26,Sr. Accountant,,F,Married,White,1/5/2009,,Admin Offices,Board of Directors,9.0,Other,3.0
+,10258,67251.0,3,Area Sales Manager,08/28/63,,Single,Black or African American,9/6/2011,,Sales,Lynn Daneault,21.0,CareerBuilder,7.0
+,10273,,14,IT Support,07/06/68,F,Single,White,5/1/2010,,IT/IS,Eric Dougall,6.0,LinkedIn,1.0
+"Garcia, Raul",10111,52249.0,19,Production Technician I,09/15/85,M ,Single,White,3/30/2015,,Production       ,David Stanley,14.0,Employee Referral,5.0
+"Gaul, Barbara",10257,53171.0,19,Production Technician I,12/02/83,F,Single,Black or African American,5/16/2011,,Production       ,Kelley Spirea,18.0,LinkedIn,12.0
+,10159,51337.0,19,Production Technician I,10/01/90,F,Married,Black or African American,3/30/2015,,Production       ,Michael Albert,22.0,LinkedIn,19.0
+"Gerke, Melisa",10122,,19,Production Technician I,05/15/70,F,Divorced,Black or African American,11/7/2011,11/15/2016,Production       ,Elijiah Gray,16.0,Diversity Job Fair,2.0
+"Gill, Whitney  ",10142,59370.0,3,Area Sales Manager,07/10/71,F,Widowed,Black or African American,7/7/2014,9/5/2015,Sales,John Smith,17.0,CareerBuilder,7.0
+,10283,54933.0,19,Production Technician I,08/09/74,,Married,Black or African American,4/2/2012,6/25/2015,Production       ,Webster Butler,39.0,Diversity Job Fair,15.0
+"Girifalco, Evelyn",10018,57815.0,19,Production Technician I,05/08/80,F,Single,Two or more races,9/29/2014,,Production       ,Amy Dunn,11.0,Indeed,3.0
+"Givens, Myriam",10255,61555.0,3,Area Sales Manager,,F,Single,White,2/16/2015,,Sales,Lynn Daneault,21.0,Indeed,20.0
+"Goble, Taisha",10246,114800.0,8,Database Administrator,10/23/71,F,Single,White,2/16/2015,3/15/2015,IT/IS,Simon Roup,4.0,Indeed,10.0
+"Goeth, Amon",10228,74679.0,14,IT Support,11/24/89,M ,Married,White,3/30/2015,,IT/IS,Peter Monroe,7.0,LinkedIn,20.0
+"Gold, Shenice  ",10243,53018.0,19,Production Technician I,06/18/92,F,Single,White,11/11/2013,,Production       ,Ketsia Liebig,19.0,Indeed,7.0
+"Gonzalez, Cayo",10031,59892.0,19,Production Technician I,09/29/69,M ,Divorced,Black or African American,7/11/2011,,Production       ,Brannon Miller,12.0,Diversity Job Fair,1.0
+"Gonzalez, Juan",10300,68898.0,20,Production Technician II,,M ,Married,Black or African American,4/26/2010,5/30/2011,Production       ,Brannon Miller,12.0,Diversity Job Fair,10.0
+,10101,,14,IT Support,04/16/81,,Separated,White,1/5/2015,,IT/IS,Peter Monroe,7.0,Employee Referral,11.0
+"Good, Susan",10237,66825.0,20,Production Technician II,05/25/86,F,Married,White,5/12/2014,,Production       ,David Stanley,14.0,LinkedIn,20.0
+"Gordon, David",10051,,19,Production Technician I,05/21/79,M ,Married,White,7/2/2012,,Production       ,David Stanley,14.0,LinkedIn,2.0
+"Gosciminski, Phylicia  ",10218,66149.0,20,Production Technician II,12/08/83,F,Separated,American Indian or Alaska Native,9/30/2013,,Production       ,Kissy Sullivan,20.0,Google Search,1.0
+"Goyal, Roxana",10256,49256.0,19,Production Technician I,10/09/74,F,Married,Asian,8/19/2013,,Production       ,Kissy Sullivan,20.0,LinkedIn,3.0
+,10098,62957.0,18,Production Manager,07/11/81,M ,Divorced,White,6/2/2015,,Production       ,Janet King,2.0,Employee Referral,2.0
+,10059,63813.0,19,Production Technician I,,,Divorced,White,2/21/2011,1/11/2014,Production       ,Kelley Spirea,18.0,CareerBuilder,17.0
+"Gruber, Hans",10234,99020.0,4,BI Developer,06/30/89,,Married,Black or African American,4/20/2017,,IT/IS,Brian Champaigne,13.0,Indeed,8.0
+,10109,71707.0,3,Area Sales Manager,02/09/69,M ,Single,Two or more races,3/7/2012,10/31/2014,Sales,John Smith,17.0,LinkedIn,20.0
+,10125,54828.0,19,Production Technician I,03/23/77,,Married,White,11/28/2011,,Production       ,Michael Albert,22.0,Google Search,13.0
+"Hankard, Earnest",10074,64246.0,20,Production Technician II,08/10/88,M ,Single,White,11/11/2013,,Production       ,Kelley Spirea,18.0,LinkedIn,20.0
+"Harrington, Christie ",10097,52177.0,19,Production Technician I,08/18/52,F,Single,White,1/9/2012,12/15/2015,Production       ,Webster Butler,39.0,CareerBuilder,8.0
+"Harrison, Kara",10007,62065.0,19,Production Technician I,05/02/74,F,Married,White,5/12/2014,,Production       ,Amy Dunn,11.0,CareerBuilder,5.0
+"Heitzman, Anthony",10129,46998.0,19,Production Technician I,01/04/84,M ,Single,White,8/13/2012,,Production       ,Ketsia Liebig,19.0,Google Search,1.0
+"Hendrickson, Trina",10075,68099.0,20,Production Technician II,,F,Single,White,1/10/2011,6/18/2013,Production       ,Kelley Spirea,18.0,CareerBuilder,15.0
+,10167,,3,Area Sales Manager,09/14/88,M ,Married,American Indian or Alaska Native,8/18/2014,,Sales,John Smith,17.0,Indeed,9.0
+,10195,63478.0,20,Production Technician II,02/16/84,F,Married,White,8/15/2011,4/7/2012,Production       ,Michael Albert,30.0,Indeed,16.0
+,10112,97999.0,8,Database Administrator,02/21/84,,Single,White,3/30/2015,,IT/IS,Simon Roup,4.0,Indeed,4.0
+"Houlihan, Debra",10272,180000.0,11,Director of Sales,03/17/66,,Married,White,5/5/2014,,Sales,Janet King,2.0,LinkedIn,19.0
+"Howard, Estelle",10182,49920.0,2,Administrative Assistant,09/16/85,F,Married,Black or African American,2/16/2015,4/15/2015,Admin Offices,Brandon R. LeBlanc,1.0,Indeed,6.0
+"Hudson, Jane",10248,55425.0,19,Production Technician I,06/10/86,,Single,White,2/20/2012,,Production       ,Ketsia Liebig,19.0,LinkedIn,4.0
+,10201,69340.0,20,Production Technician II,03/11/84,F,Single,White,6/6/2016,,Production       ,Elijiah Gray,16.0,LinkedIn,4.0
+,10214,64995.0,20,Production Technician II,05/07/92,F,Separated,White,6/5/2015,,Production       ,Webster Butler,,Indeed,6.0
+"Huynh, Ming",10160,68182.0,20,Production Technician II,09/22/76,,Divorced,White,2/21/2011,4/1/2013,Production       ,Amy Dunn,11.0,Google Search,18.0
+"Immediato, Walter",10289,,18,Production Manager,11/15/76,M ,Married,Asian,2/21/2011,9/24/2012,Production       ,Janet King,2.0,Indeed,4.0
+,10139,,19,Production Technician I,01/28/91,F,Single,White,8/19/2013,,Production       ,Brannon Miller,12.0,Indeed,14.0
+,10227,61242.0,19,Production Technician I,,F,Single,Black or African American,11/5/2012,,Production       ,David Stanley,14.0,LinkedIn,
+"Jacobi, Hannah  ",10236,45069.0,19,Production Technician I,03/22/66,F,Divorced,White,9/30/2013,,Production       ,Kissy Sullivan,20.0,Employee Referral,7.0
+"Jeannite, Tayana",10009,,20,Production Technician II,11/06/86,F,Divorced,American Indian or Alaska Native,7/5/2011,,Production       ,Ketsia Liebig,19.0,LinkedIn,11.0
+"Jhaveri, Sneha  ",10060,60436.0,19,Production Technician I,04/13/64,F,Separated,White,1/6/2014,,Production       ,Kelley Spirea,18.0,LinkedIn,9.0
+"Johnson, George",10034,46837.0,19,Production Technician I,08/19/59,M ,Married,White,11/7/2011,4/29/2018,Production       ,Michael Albert,22.0,CareerBuilder,9.0
+"Johnson, Noelle ",10156,105700.0,8,Database Administrator,11/07/86,,Married,Asian,1/5/2015,,IT/IS,Simon Roup,4.0,Indeed,2.0
+"Johnston, Yen",10036,,20,Production Technician II,09/08/69,,Single,White,7/7/2014,,Production       ,Brannon Miller,12.0,LinkedIn,1.0
+,10138,61154.0,19,Production Technician I,04/17/86,F,Married,Black or African American,1/10/2011,4/1/2016,Production       ,Elijiah Gray,16.0,CareerBuilder,4.0
+"Kampew, Donysha",10244,68999.0,21,Sales Manager,11/11/89,,Single,White,11/7/2011,4/24/2014,Sales,Debra Houlihan,15.0,Google Search,2.0
+"Keatts, Kramer ",10192,50482.0,19,Production Technician I,01/19/76,M ,Single,White,9/30/2013,,Production       ,Michael Albert,22.0,Indeed,10.0
+,10231,65310.0,3,Area Sales Manager,11/27/79,M ,Single,White,8/19/2013,,Sales,Lynn Daneault,21.0,Indeed,13.0
+"King, Janet",10089,,16,President & CEO,09/21/54,F,Married,White,7/2/2012,,Executive Office,Board of Directors,9.0,Indeed,10.0
+"Kinsella, Kathleen  ",10166,54005.0,19,Production Technician I,12/08/73,F,Married,White,9/26/2011,6/4/2015,Production       ,Webster Butler,39.0,Google Search,16.0
+"Kirill, Alexandra  ",10170,,19,Production Technician I,10/08/70,F,Married,White,9/26/2011,1/9/2014,Production       ,Amy Dunn,11.0,Google Search,6.0
+"Knapp, Bradley  J",10208,46654.0,19,Production Technician I,11/10/77,,Single,Black or African American,2/17/2014,,Production       ,Ketsia Liebig,19.0,LinkedIn,3.0
+"Kretschmer, John",10176,63973.0,19,Production Technician I,02/02/80,M ,Married,Asian,1/10/2011,,Production       ,Brannon Miller,12.0,Indeed,17.0
+"Kreuger, Freddy",10165,,3,Area Sales Manager,02/24/69,M ,Single,Black or African American,3/7/2011,,Sales,John Smith,17.0,Diversity Job Fair,20.0
+"Lajiri,  Jyoti",10113,93206.0,28,Sr. Network Engineer,04/23/86,M ,Married,White,11/10/2014,,IT/IS,Peter Monroe,7.0,Employee Referral,7.0
+"Landa, Hans",10092,82758.0,18,Production Manager,,M ,Married,White,1/10/2011,12/12/2015,Production       ,Janet King,2.0,Employee Referral,9.0
+"Langford, Lindsey",10106,66074.0,20,Production Technician II,07/25/79,F,Divorced,Asian,1/7/2013,3/31/2014,Production       ,David Stanley,14.0,Indeed,20.0
+"Langton, Enrico",10052,46120.0,19,Production Technician I,12/09/86,M ,Married,White,7/9/2012,,Production       ,David Stanley,14.0,LinkedIn,13.0
+"LaRotonda, William  ",10038,64520.0,1,Accountant I,,M ,Divorced,Black or African American,1/6/2014,,Admin Offices,Brandon R. LeBlanc,1.0,Website,3.0
+"Latif, Mohammed",10249,,20,Production Technician II,05/09/84,M ,Married,White,4/2/2012,4/15/2013,Production       ,Kissy Sullivan,20.0,Google Search,20.0
+"Le, Binh",10232,81584.0,22,Senior BI Developer,06/14/87,F,Single,Asian,10/2/2016,,IT/IS,Brian Champaigne,13.0,Indeed,2.0
+"Leach, Dallas",10087,63676.0,19,Production Technician I,01/17/79,,Single,Asian,9/26/2011,8/19/2018,Production       ,Kissy Sullivan,20.0,CareerBuilder,17.0
+"LeBlanc, Brandon  R",10134,,23,Shared Services Manager,06/10/84,M ,Married,White,1/5/2016,,Admin Offices,Janet King,2.0,CareerBuilder,20.0
+"Lecter, Hannibal",10251,64738.0,19,Production Technician I,09/02/82,,Married,Asian,5/14/2012,,Production       ,Elijiah Gray,16.0,Google Search,10.0
+"Leruth, Giovanni",10103,70468.0,3,Area Sales Manager,12/27/88,,Separated,Black or African American,4/30/2012,,Sales,John Smith,17.0,Website,16.0
+"Liebig, Ketsia",10017,77915.0,18,Production Manager,10/26/81,F,Married,White,9/30/2013,,Production       ,Janet King,2.0,Website,11.0
+"Linares, Marilyn ",10186,52624.0,19,Production Technician I,03/26/81,F,Married,White,7/5/2011,9/26/2018,Production       ,Michael Albert,22.0,Indeed,16.0
+"Linden, Mathew",10137,63450.0,20,Production Technician II,03/19/79,M ,Married,White,7/8/2013,,Production       ,Kelley Spirea,18.0,LinkedIn,7.0
+"Lindsay, Leonara ",10008,51777.0,14,IT Support,10/05/88,F,Single,Black or African American,1/21/2011,,IT/IS,Eric Dougall,6.0,Diversity Job Fair,14.0
+"Lundy, Susan",10096,67237.0,20,Production Technician II,12/26/76,F,Widowed,White,7/8/2013,9/15/2016,Production       ,Michael Albert,22.0,LinkedIn,
+,10035,,20,Production Technician II,03/28/82,F,Single,Black or African American,8/19/2013,,Production       ,Elijiah Gray,16.0,Indeed,19.0
+"Lydon, Allison",10057,52057.0,19,Production Technician I,10/22/75,F,Married,Black or African American,2/16/2015,,Production       ,Elijiah Gray,16.0,Website,6.0
+"Lynch, Lindsay",10004,47434.0,19,Production Technician I,,F,Single,Black or African American,11/7/2011,11/14/2015,Production       ,Webster Butler,39.0,Diversity Job Fair,17.0
+,10191,,19,Production Technician I,11/09/72,M ,Widowed,White,9/24/2012,9/26/2017,Production       ,Amy Dunn,11.0,Indeed,18.0
+,10219,45395.0,19,Production Technician I,07/07/86,F,Single,White,1/6/2014,,Production       ,Ketsia Liebig,19.0,LinkedIn,14.0
+"Manchester, Robyn",10077,62385.0,20,Production Technician II,08/25/76,F,Married,White,5/11/2016,,Production       ,Webster Butler,,LinkedIn,
+"Mancuso, Karen",10073,68407.0,20,Production Technician II,12/10/86,F,Married,Two or more races,7/5/2011,8/19/2012,Production       ,Amy Dunn,11.0,LinkedIn,16.0
+"Mangal, Debbie",10279,61349.0,19,Production Technician I,11/07/74,F,Married,White,11/11/2013,,Production       ,Brannon Miller,12.0,LinkedIn,11.0
+"Martin, Sandra",10110,105688.0,24,Software Engineer,11/07/87,F,Single,Asian,11/11/2013,,Software Engineering,Alex Sweetwater,10.0,Google Search,14.0
+,10053,,19,Production Technician I,11/22/77,F,Married,White,5/31/2011,,Production       ,David Stanley,14.0,Indeed,8.0
+"Carthy, B'rigit",10076,55315.0,20,Production Technician II,05/21/87,F,Single,Black or African American,3/30/2015,,Production       ,Ketsia Liebig,19.0,LinkedIn,16.0
+"Mckenna, Sandy",10145,62810.0,19,Production Technician I,01/07/87,F,Married,Black or African American,1/7/2013,,Production       ,Kissy Sullivan,20.0,CareerBuilder,20.0
+"McKinzie, Jac",10202,63291.0,3,Area Sales Manager,,M ,Married,Two or more races,7/6/2016,,Sales,Lynn Daneault,21.0,Website,7.0
+,10128,62659.0,19,Production Technician I,,,Single,Black or African American,4/2/2012,11/11/2016,Production       ,Kelley Spirea,18.0,Diversity Job Fair,
+,10068,55688.0,19,Production Technician I,09/22/76,F,Single,White,3/30/2015,,Production       ,Michael Albert,22.0,CareerBuilder,10.0
+"Miller, Brannon",10116,83667.0,18,Production Manager,08/10/81,M ,Single,Hispanic,8/16/2012,,Production       ,Janet King,2.0,Indeed,
+"Miller, Ned",10298,55800.0,20,Production Technician II,06/29/85,M ,Single,White,8/15/2011,9/4/2014,Production       ,Brannon Miller,12.0,LinkedIn,
+"Monkfish, Erasumus",10213,58207.0,20,Production Technician II,08/17/92,,Married,White,11/7/2011,,Production       ,David Stanley,14.0,LinkedIn,14.0
+,10288,157000.0,13,IT Manager - Infra,10/05/86,,Married,Black or African American,2/15/2012,,IT/IS,Jennifer Zamora,5.0,Diversity Job Fair,13.0
+"Monterro, Luisa",10025,72460.0,20,Production Technician II,04/24/70,F,Single,Black or African American,5/13/2013,,Production       ,Kissy Sullivan,20.0,Indeed,1.0
+"Moran, Patrick",10223,72106.0,20,Production Technician II,12/03/76,,Single,Black or African American,1/9/2012,,Production       ,Kelley Spirea,18.0,Diversity Job Fair,12.0
+"Morway, Tanya",10151,52599.0,15,Network Engineer,04/04/79,F,Married,White,2/16/2015,,IT/IS,Peter Monroe,7.0,CareerBuilder,6.0
+"Motlagh,  Dawn",10254,63430.0,19,Production Technician I,07/07/84,,Divorced,White,4/1/2013,,Production       ,Elijiah Gray,16.0,LinkedIn,
+"Moumanil, Maliki ",10120,,20,Production Technician II,12/01/74,M ,Separated,Black or African American,5/13/2013,,Production       ,Michael Albert,22.0,LinkedIn,
+,10216,,19,Production Technician I,04/18/80,M ,Single,Asian,7/8/2013,,Production       ,Kissy Sullivan,20.0,LinkedIn,13.0
+"Navathe, Kurt",10079,,22,Senior BI Developer,04/25/70,M ,Single,Asian,2/10/2017,,IT/IS,Brian Champaigne,13.0,Indeed,17.0
+"Ndzi, Colombui",10215,,19,Production Technician I,05/02/89,M ,Single,Black or African American,9/26/2011,4/4/2014,Production       ,Webster Butler,39.0,Diversity Job Fair,19.0
+,10185,46664.0,19,Production Technician I,03/28/83,M ,Married,White,4/1/2013,5/25/2016,Production       ,Amy Dunn,11.0,Employee Referral,10.0
+"Newman, Richard ",10063,48495.0,19,Production Technician I,04/08/77,,Married,White,5/12/2014,,Production       ,Ketsia Liebig,19.0,LinkedIn,11.0
+"Ngodup, Shari ",10037,52984.0,19,Production Technician I,06/03/67,F,Separated,Black or African American,4/1/2013,,Production       ,Brannon Miller,12.0,Diversity Job Fair,12.0
+,10042,63695.0,3,Area Sales Manager,03/31/89,F,Single,Two or more races,7/8/2013,,Sales,Lynn Daneault,21.0,Indeed,2.0
+"Nguyen, Lei-Ming",10206,62061.0,19,Production Technician I,07/07/84,F,Single,White,7/8/2013,,Production       ,David Stanley,14.0,LinkedIn,4.0
+,10104,66738.0,20,Production Technician II,11/23/85,F,Single,White,11/10/2014,,Production       ,Elijiah Gray,16.0,Indeed,5.0
+"O'hare, Lynn",10303,,19,Production Technician I,09/30/80,F,Single,Two or more races,3/31/2014,5/1/2018,Production       ,Kissy Sullivan,20.0,LinkedIn,3.0
+"Oliver, Brooke ",10078,71966.0,20,Production Technician II,,F,Married,Asian,5/14/2012,8/19/2013,Production       ,Webster Butler,39.0,LinkedIn,17.0
+"Onque, Jasmine",10121,63051.0,3,Area Sales Manager,05/11/90,,Single,White,9/30/2013,,Sales,Lynn Daneault,21.0,Indeed,1.0
+"Osturnka, Adeel",10021,47414.0,19,Production Technician I,,M ,Married,White,9/30/2013,,Production       ,Kelley Spirea,18.0,LinkedIn,13.0
+,10281,53060.0,19,Production Technician I,11/24/79,M ,Single,Black or African American,2/17/2014,,Production       ,Michael Albert,22.0,LinkedIn,6.0
+"Ozark, Travis",10041,68829.0,3,Area Sales Manager,05/19/82,,Single,White,1/5/2015,,Sales,John Smith,17.0,Website,18.0
+"Panjwani, Nina",10148,63515.0,19,Production Technician I,05/01/79,,Married,White,2/7/2011,1/12/2014,Production       ,Elijiah Gray,16.0,Google Search,
+"Patronick, Lucas",10005,108987.0,24,Software Engineer,02/20/79,M ,Single,Black or African American,11/7/2011,9/7/2015,Software Engineering,Alex Sweetwater,10.0,Diversity Job Fair,13.0
+"Pearson, Randall",10259,93093.0,9,Data Analyst,09/05/84,M ,Married,White,12/1/2014,5/1/2016,IT/IS,Simon Roup,4.0,Employee Referral,19.0
+"Smith, Martin",10286,53564.0,19,Production Technician I,03/17/88,M ,Single,Black or African American,1/10/2011,12/28/2017,Production       ,Webster Butler,39.0,Google Search,15.0
+"Pelletier, Ermine",10297,,20,Production Technician II,07/18/89,F,Married,Asian,7/5/2011,9/15/2015,Production       ,Amy Dunn,11.0,CareerBuilder,2.0
+"Perry, Shakira",10171,45998.0,19,Production Technician I,,,Single,White,5/16/2011,10/25/2015,Production       ,Amy Dunn,11.0,LinkedIn,5.0
+"Peters, Lauren",10032,57954.0,20,Production Technician II,08/17/86,F,Married,White,5/16/2011,2/4/2013,Production       ,Ketsia Liebig,19.0,Indeed,12.0
+,10130,74669.0,18,Production Manager,05/09/77,F,Married,White,10/25/2010,5/18/2016,Production       ,Janet King,2.0,Indeed,6.0
+"Petingill, Shana  ",10217,74226.0,20,Production Technician II,03/10/79,F,Married,Asian,4/2/2012,,Production       ,Brannon Miller,12.0,LinkedIn,14.0
+,10016,93554.0,9,Data Analyst,09/16/84,,Married,Black or African American,11/10/2014,,IT/IS,Simon Roup,4.0,Employee Referral,
+"Pham, Hong",10050,64724.0,19,Production Technician I,03/06/88,M ,Married,Asian,7/5/2011,11/30/2012,Production       ,Brannon Miller,12.0,Google Search,
+"Pitt, Brad ",10164,47001.0,19,Production Technician I,11/23/81,M ,Single,White,11/5/2007,,Production       ,David Stanley,14.0,Google Search,15.0
+,10124,61844.0,3,Area Sales Manager,08/29/88,F,Married,Black or African American,1/9/2012,,Sales,Lynn Daneault,21.0,Website,9.0
+"Power, Morissa",10187,46799.0,19,Production Technician I,,F,Divorced,Asian,5/16/2011,6/4/2018,Production       ,Kissy Sullivan,20.0,Google Search,14.0
+,10225,59472.0,19,Production Technician I,06/19/61,,Single,White,1/6/2014,,Production       ,Kelley Spirea,18.0,Employee Referral,14.0
+,10262,46430.0,19,Production Technician I,09/22/70,,Divorced,White,9/24/2012,6/18/2013,Production       ,Kissy Sullivan,20.0,Indeed,16.0
+"Quinn, Sean",10131,83363.0,23,Software Engineer,11/06/84,M ,Married,Black or African American,2/21/2011,8/15/2015,Software Engineering,Janet King,2.0,Diversity Job Fair,4.0
+"Rachael, Maggie",10239,95920.0,4,BI Developer,05/12/80,F,Married,Black or African American,10/2/2016,,IT/IS,Brian Champaigne,13.0,Indeed,10.0
+"Rarrick, Quinn",10152,,19,Production Technician I,12/31/84,M ,Divorced,White,9/26/2011,4/7/2018,Production       ,Michael Albert,22.0,Indeed,
+,10140,61809.0,3,Area Sales Manager,10/12/54,M ,Married,White,5/12/2014,,Sales,John Smith,17.0,CareerBuilder,4.0
+"Rhoads, Thomas",10058,45115.0,19,Production Technician I,07/22/82,M ,Divorced,White,5/16/2011,1/15/2016,Production       ,Elijiah Gray,16.0,LinkedIn,11.0
+"Rivera, Haley  ",10011,46738.0,19,Production Technician I,01/12/73,F,Married,Asian,11/28/2011,,Production       ,Webster Butler,,Google Search,16.0
+,10230,64971.0,20,Production Technician II,09/05/81,F,Divorced,Black or African American,9/26/2011,10/22/2011,Production       ,David Stanley,14.0,Google Search,10.0
+"Robertson, Peter",10224,55578.0,20,Production Technician II,07/03/72,,Married,White,7/5/2011,2/8/2012,Production       ,Kissy Sullivan,20.0,Indeed,
+"Robinson, Alain  ",10047,,19,Production Technician I,01/07/74,M ,Married,Black or African American,1/10/2011,1/26/2016,Production       ,Amy Dunn,11.0,Indeed,11.0
+"Robinson, Cherly",10285,61422.0,19,Production Technician I,01/07/85,F,Married,White,1/10/2011,5/17/2016,Production       ,Ketsia Liebig,19.0,Indeed,16.0
+,10020,63353.0,19,Production Technician I,01/28/85,,Widowed,White,7/8/2013,,Production       ,Brannon Miller,12.0,Employee Referral,4.0
+"Roby, Lori ",10162,89883.0,9,Data Analyst,10/11/81,F,Married,White,2/16/2015,,IT/IS,Simon Roup,4.0,Employee Referral,15.0
+"Roehrich, Bianca",10149,120000.0,29,Principal Data Architect,05/27/73,F,Single,White,1/5/2015,11/10/2018,IT/IS,Simon Roup,4.0,LinkedIn,
+,10086,,7,Data Architect,,F,Single,Black or African American,1/7/2017,,IT/IS,Brian Champaigne,13.0,Indeed,17.0
+"Rose, Ashley  ",10054,,19,Production Technician I,12/05/74,F,Separated,White,1/6/2014,,Production       ,David Stanley,14.0,Website,
+,10065,53180.0,19,Production Technician I,03/18/87,M ,Single,White,4/4/2011,8/13/2018,Production       ,Kissy Sullivan,20.0,Google Search,4.0
+"Roup,Simon",10198,,13,IT Manager - DB,04/05/73,M ,Single,White,1/20/2013,,IT/IS,Jennifer Zamora,5.0,Indeed,13.0
+,10222,,13,IT Manager - DB,,M ,Divorced,Black or African American,1/9/2012,11/4/2015,IT/IS,Jennifer Zamora,5.0,Diversity Job Fair,8.0
+,10126,86214.0,24,Software Engineer,07/24/86,F,Married,White,11/5/2012,,Software Engineering,Alex Sweetwater,10.0,Indeed,
+"Saar-Beckles, Melinda",10295,47750.0,19,Production Technician I,,F,Single,Black or African American,7/4/2016,,Production       ,Kelley Spirea,18.0,Diversity Job Fair,4.0
+"Sadki, Nore  ",10260,46428.0,19,Production Technician I,,M ,Single,White,1/5/2009,7/30/2018,Production       ,Michael Albert,22.0,Google Search,7.0
+"Sahoo, Adil",10233,57975.0,20,Production Technician II,,M ,Married,White,8/30/2010,,Production       ,Kelley Spirea,18.0,CareerBuilder,13.0
+"Salter, Jason",10229,,9,Data Analyst ,12/17/87,M ,Divorced,Black or African American,1/5/2015,10/31/2015,IT/IS,Simon Roup,4.0,LinkedIn,2.0
+"Sander, Kamrin",10169,,19,Production Technician I,07/10/88,F,Married,Black or African American,9/29/2014,,Production       ,Elijiah Gray,16.0,LinkedIn,2.0
+"Sewkumar, Nori",10071,50923.0,19,Production Technician I,03/10/75,F,Single,Asian,9/30/2013,,Production       ,Webster Butler,,Google Search,14.0
+"Shepard, Anita ",10179,50750.0,15,Network Engineer,04/14/81,F,Married,White,9/30/2014,,IT/IS,Peter Monroe,7.0,LinkedIn,7.0
+,10091,52087.0,19,Production Technician I,08/24/85,,Married,White,8/19/2013,,Production       ,Amy Dunn,11.0,LinkedIn,15.0
+"Simard, Kramer",10178,87826.0,9,Data Analyst,02/08/70,M ,Married,White,1/5/2015,,IT/IS,Simon Roup,4.0,Employee Referral,16.0
+,10039,51920.0,2,Administrative Assistant,,F,Single,White,5/1/2015,,Admin Offices,Brandon R. LeBlanc,1.0,Website,
+"Sloan, Constance",10095,63878.0,20,Production Technician II,11/25/87,F,Single,White,10/26/2009,4/8/2015,Production       ,Michael Albert,22.0,CareerBuilder,20.0
+,10027,,20,Production Technician II,10/30/63,M ,Single,White,9/29/2014,,Production       ,Elijiah Gray,16.0,Indeed,4.0
+"Smith, John",10291,72992.0,21,Sales Manager,08/16/84,M ,Divorced,Black or African American,5/18/2014,,Sales,Debra Houlihan,15.0,Diversity Job Fair,16.0
+"Smith, Leigh Ann",10153,55000.0,2,Administrative Assistant,06/14/87,F,Married,Black or African American,9/26/2011,9/25/2013,Admin Offices,Brandon R. LeBlanc,1.0,Diversity Job Fair,17.0
+"Smith, Sade",10157,58939.0,19,Production Technician I,02/02/65,F,Single,White,11/11/2013,,Production       ,Ketsia Liebig,19.0,Employee Referral,
+,10119,66593.0,14,IT Support,03/12/73,,Married,Black or African American,6/10/2011,,IT/IS,Eric Dougall,6.0,LinkedIn,19.0
+,10180,87565.0,28,Sr. Network Engineer,02/09/83,M ,Married,Asian,6/30/2016,,IT/IS,Peter Monroe,7.0,LinkedIn,13.0
+"Sparks, Taylor  ",10302,,19,Production Technician I,07/20/68,F,Married,White,2/20/2012,,Production       ,Brannon Miller,12.0,Indeed,20.0
+,10090,65714.0,18,Production Manager,09/30/75,F,Married,White,10/2/2012,,Production       ,Janet King,2.0,LinkedIn,15.0
+"Squatrito, Kristen",10030,62425.0,19,Production Technician I,03/26/73,,Divorced,White,5/13/2013,6/29/2015,Production       ,David Stanley,14.0,LinkedIn,16.0
+"Stanford,Barbara  M",10278,47961.0,19,Production Technician I,08/25/82,F,Divorced,Two or more races,1/10/2011,,Production       ,Kissy Sullivan,20.0,Google Search,9.0
+,10307,58273.0,3,Area Sales Manager,05/09/74,M ,Married,White,5/12/2014,,Sales,Lynn Daneault,21.0,Website,5.0
+"Steans, Tyrone  ",10147,63003.0,1,Accountant I,09/01/86,M ,Single,White,9/29/2014,,Admin Offices,Brandon R. LeBlanc,1.0,Indeed,
+"Stoica, Rick",10266,61355.0,19,Production Technician I,03/14/85,M ,Married,Asian,2/17/2014,,Production       ,Kelley Spirea,18.0,LinkedIn,4.0
+,10241,60120.0,3,Area Sales Manager,05/12/89,F,Married,Black or African American,9/27/2010,,Sales,John Smith,17.0,Indeed,18.0
+,10158,,18,Production Manager,03/28/78,F,Married,Black or African American,1/8/2009,,Production       ,Janet King,2.0,Indeed,12.0
+"Sullivan, Timothy",10117,63025.0,19,Production Technician I,10/07/82,,Married,White,1/5/2015,,Production       ,Michael Albert,22.0,Google Search,
+"Sutwell, Barbara",10209,,19,Production Technician I,08/15/68,,Single,Asian,5/14/2012,,Production       ,Elijiah Gray,16.0,Indeed,13.0
+,10024,92989.0,24,Software Engineer,05/06/83,,Single,White,7/7/2014,,Software Engineering,Alex Sweetwater,10.0,LinkedIn,1.0
+,10173,90100.0,4,BI Developer,10/24/87,M ,Married,White,4/20/2017,,IT/IS,Brian Champaigne,13.0,Indeed,14.0
+"Tavares, Desiree  ",10221,,19,Production Technician I,04/03/75,,Married,Black or African American,4/27/2009,4/1/2013,Production       ,Webster Butler,39.0,Diversity Job Fair,11.0
+"Tejeda, Lenora ",10146,,20,Production Technician II,05/24/53,F,Married,White,5/16/2011,7/8/2017,Production       ,Elijiah Gray,16.0,Google Search,3.0
+"Terry, Sharlene ",10161,58370.0,3,Area Sales Manager,05/07/65,F,Single,Black or African American,9/29/2014,,Sales,Lynn Daneault,21.0,Indeed,18.0
+"Theamstern, Sophia",10141,48413.0,19,Production Technician I,05/09/65,F,Single,White,7/5/2011,9/5/2016,Production       ,Amy Dunn,11.0,Indeed,1.0
+,10268,,20,Production Technician II,09/16/75,M ,Widowed,White,6/25/2007,8/30/2010,Production       ,Webster Butler,39.0,Other,15.0
+"Tippett, Jeanette",10123,56339.0,19,Production Technician I,06/05/67,F,Divorced,Black or African American,2/18/2013,,Production       ,Brannon Miller,12.0,Indeed,4.0
+"Torrence, Jack",10013,64397.0,3,Area Sales Manager,01/15/68,M ,Separated,White,1/9/2006,,Sales,Lynn Daneault,21.0,Indeed,6.0
+,10287,63025.0,19,Production Technician I,05/16/83,F,Single,White,2/17/2014,,Production       ,David Stanley,14.0,LinkedIn,18.0
+,10044,75281.0,15,Network Engineer,05/05/88,M ,Married,White,1/5/2015,2/12/2016,IT/IS,Peter Monroe,7.0,CareerBuilder,11.0
+"True, Edward",10102,100416.0,24,Software Engineer,06/14/83,M ,Single,Black or African American,2/18/2013,4/15/2018,Software Engineering,Alex Sweetwater,10.0,Diversity Job Fair,
+,10270,74813.0,20,Production Technician II,03/15/85,F,Single,White,1/10/2011,7/2/2014,Production       ,Amy Dunn,11.0,LinkedIn,5.0
+"Turpin, Jumil",10045,76029.0,15,Network Engineer,03/31/69,M ,Married,White,3/30/2015,,IT/IS,Peter Monroe,7.0,Employee Referral,8.0
+"Valentin,Jackie",10205,57859.0,3,Area Sales Manager,05/23/91,,Married,Two or more races,7/5/2011,,Sales,John Smith,17.0,Indeed,16.0
+"Veera, Abdellah ",10014,,19,Production Technician I,01/31/87,M ,Divorced,White,8/13/2012,2/5/2016,Production       ,Kissy Sullivan,20.0,LinkedIn,15.0
+"Vega, Vincent",10144,,17,Production Manager,10/10/68,M ,Divorced,White,8/1/2011,,Production       ,Janet King,2.0,Employee Referral,19.0
+"Villanueva, Noah",10253,55875.0,3,Area Sales Manager,07/11/89,,Single,Asian,3/5/2012,,Sales,John Smith,17.0,Website,11.0
+"Voldemort, Lord",10118,,8,Database Administrator,08/07/86,M ,Married,Black or African American,2/16/2015,2/22/2017,IT/IS,Simon Roup,4.0,Employee Referral,9.0
+"Volk, Colleen",10022,49773.0,19,Production Technician I,06/03/86,,Married,White,9/26/2011,2/8/2016,Production       ,Kelley Spirea,18.0,Google Search,18.0
+"Von Massenbach, Anna",10183,,19,Production Technician I,,F,Single,White,7/5/2015,,Production       ,Michael Albert,22.0,LinkedIn,7.0
+,10190,66541.0,20,Production Technician II,02/10/76,M ,Single,Black or African American,8/18/2014,,Production       ,Ketsia Liebig,19.0,Employee Referral,4.0
+"Wallace, Courtney  E",10274,80512.0,18,Production Manager,11/14/55,F,Married,Black or African American,9/26/2011,1/2/2012,Production       ,Janet King,2.0,Diversity Job Fair,5.0
+"Wallace, Theresa",10293,50274.0,19,Production Technician I,08/02/80,F,Single,White,8/13/2012,9/1/2015,Production       ,Elijiah Gray,16.0,CareerBuilder,
+,10172,,22,Senior BI Developer,07/08/81,M ,Single,Asian,2/15/2017,,IT/IS,Brian Champaigne,13.0,Indeed,17.0
+,10127,107226.0,28,Sr. Network Engineer,05/02/78,F,Widowed,Asian,3/30/2015,,IT/IS,Peter Monroe,7.0,Employee Referral,7.0
+"Whittier, Scott",10072,58371.0,19,Production Technician I,05/24/87,,Single,White,1/10/2011,5/15/2014,Production       ,Webster Butler,39.0,LinkedIn,11.0
+"Wilber, Barry",10048,55140.0,19,Production Technician I,09/09/65,M ,Married,White,5/16/2011,9/7/2015,Production       ,Amy Dunn,11.0,Website,7.0
+"Wilkes, Annie",10204,58062.0,19,Production Technician I,07/30/83,F,Divorced,White,1/10/2011,5/14/2012,Production       ,Ketsia Liebig,19.0,Google Search,9.0
+"Williams, Jacquelyn  ",10264,59728.0,19,Production Technician I,10/02/69,,Single,Black or African American,1/9/2012,6/27/2015,Production       ,Ketsia Liebig,19.0,Diversity Job Fair,16.0
+"Winthrop, Jordan  ",10033,70507.0,20,Production Technician II,11/07/58,M ,Single,White,1/7/2013,2/21/2016,Production       ,Brannon Miller,12.0,LinkedIn,7.0
+"Wolk, Hang  T",10174,60446.0,20,Production Technician II,,F,Single,White,9/29/2014,,Production       ,David Stanley,14.0,LinkedIn,
+"Woodson, Jason",10135,65893.0,20,Production Technician II,05/11/85,M ,Single,White,7/7/2014,,Production       ,Kissy Sullivan,20.0,LinkedIn,13.0
+"Ybarra, Catherine ",10301,48513.0,19,Production Technician I,,F,Single,Asian,9/2/2008,9/29/2015,Production       ,Brannon Miller,12.0,Google Search,4.0
+,10010,220450.0,6,CIO,,F,Single,White,4/10/2010,,IT/IS,Janet King,2.0,Employee Referral,16.0
+"Zhou, Julia",10043,89292.0,9,Data Analyst,02/24/79,F,Single,White,3/30/2015,,IT/IS,Simon Roup,4.0,Employee Referral,
+,10271,45046.0,19,Production Technician I,08/17/78,F,Widowed,Asian,9/29/2014,,Production       ,David Stanley,14.0,LinkedIn,2.0
